@@ -42,7 +42,7 @@
     As a developer So far I created web sites so I thought how about if I create my own game. So today 2026.3.15 I start to learn Unity Engine course in alison.
 
 <p align="center">
-  <img src="images/alison-unity-course." width="500">
+  <img src="https://github.com/Senura-Peiris/My-game-creating-journey/blob/main/Alison%20Game%20Course.png" width="600" alt="Alison 2d game course Unity">
 </p>
 
     
