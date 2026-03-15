@@ -47,6 +47,8 @@
 </p>
 
 #### My Courses
+
+01. Unity 2D and C# for Beginner Game Developers (Alison)
 <p align="center">
   <img src="https://github.com/Senura-Peiris/My-game-creating-journey/blob/main/Alison%20Game%20Course.png" width="600" alt="Alison 2d game course Unity">
 </p>
@@ -56,6 +58,9 @@ Course Overview (What can we learn from this course)
 <p align = "left">
 <img src="https://github.com/Senura-Peiris/My-game-creating-journey/blob/main/Alison%20game%20course%20details%20what%20can%20learn.png" width="600px" alt="course details">
 </p>
- 
+
+If you like to follow it here is the link to the course : 
+  Unity 2D and C# for Beginner Game Developers(Alison) = https://alison.com/course/unity-2d-and-c-sharp-for-beginner-game-developers#outcomes 
+  Unity Engine Download Link : https://cloud.unity.com/home/organizations/18968397106713/onboarding/post-download?locale=en&code=VzOImuWim6vFt-HGdH2aag011f&locale=en&session_state=807e03ffa7b888664af59841af5830c82c18fc85c46ff465aafa2a69934bd7b8.oJqmcYkAIHC37v-iDGfnbg00ef
     
 
