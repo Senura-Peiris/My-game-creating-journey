@@ -1,5 +1,7 @@
 # My-game-development-jurney
-
+<p align ="center">
+  <img src="" width="100%">
+</p>
 
 #Gaming Industry in Sri Lanka
 ## Gaming Industry Overview (Sri Lanka)
