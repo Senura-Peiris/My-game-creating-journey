@@ -1,10 +1,10 @@
 # My-game-development-jurney
 <p align ="center">
   <img src="https://github.com/Senura-Peiris/My-game-creating-jurney/blob/main/game%20world%20top%20image.png" width="100%" height="450px"
-    style="filter: brightness(75%);">
+    style="filter: brightness(50%);">
 </p>
 
-#Gaming Industry in Sri Lanka
+# Gaming Industry in Sri Lanka
 ## Gaming Industry Overview (Sri Lanka)
 
 
@@ -38,7 +38,7 @@
     • Government recognition of esports
     • Small but expanding market
 
-    #My journey of game development start here#
+    # My Game development journey
     As a developer So far I created web sites so I thought how about if I create my own game. So today 2026.3.15 I start to learn Unity Engine course in alison.
 
 <p align="center">
