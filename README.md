@@ -4,20 +4,9 @@
 #Gaming Industry in Sri Lanka
 ## Gaming Industry Overview (Sri Lanka)
 
-                 GAMING INDUSTRY OVERVIEW
-
-              Sri Lanka vs Global Gaming Market
-┌───────────────────────────┬───────────────┬───────────────┐
-│ Category                  │ Sri Lanka     │ Global Market │
-├───────────────────────────┼───────────────┼───────────────┤
-│ Industry Size             │ Small         │ Very Large    │
-│ Revenue                   │ ~$410M by 2026│ $200B+        │
-│ Studios                   │ Few           │ Thousands     │
-│ Game Types                │ Mobile / Indie│ AAA + All     │
-│ Investment                │ Low           │ Very High     │
-│ Developer Community       │ Growing       │ Massive       │
-│ Esports                   │ Emerging      │ Established   │
-└───────────────────────────┴───────────────┴───────────────┘
+   <p align= "center">
+     <img src="https://github.com/Senura-Peiris/My-game-creating-jurney/blob/main/Sri%20Lanka%20vs%20Global%20game%20industries.png" alt="Global vs Sri lanka" width="600px">
+   </p>
 
 
               Opportunities for New Developers
