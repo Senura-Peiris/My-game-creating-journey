@@ -49,7 +49,7 @@
 Course Overview (What can we learn from this course)
 
 <p align = "left">
-<img src="" width="600px" alt="course details">
+<img src="https://github.com/Senura-Peiris/My-game-creating-journey/blob/main/Alison%20game%20course%20details%20what%20can%20learn.png" width="600px" alt="course details">
 </p>
  
     
